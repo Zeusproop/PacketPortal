@@ -1,6 +1,6 @@
 #  PacketPortal
 
-[![Discord Total Members](https://img.shields.io/discord/1470735119806365791?color=5865F2&label=members&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/64sNUSxuJh)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/64sNUSxuJh)
 
 PacketPortal bridges your Discord server and Minecraft world, allowing staff to manage and deliver item packages to players with ease. Whether it’s for event rewards, donor perks, or staff gifts, PacketPortal makes delivery immersive and effortless.
 
